@@ -16,7 +16,6 @@ class Wrap extends React.Component {
                     React.createElement(
                         AdWrap_1,
                         {
-                            title: '작지만 강해~ 후회없는 선택 미니건조기',
                             main_url: '#none',
                             main_src: '02/imgs/img01.jpg',
                             share_url1: '#none',
